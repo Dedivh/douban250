@@ -8,7 +8,8 @@ const movieJSON = function() {
             "writer": "[美] 卡勒德·胡赛尼 ",
             "judgements": 337454,
             "publicHouse": " 上海人民出版社 ",
-            "price": " 29.00元"
+            "price": " 29.00元",
+            "area": "美"
         },
         {
             "name": "解忧杂货店",
@@ -18,7 +19,8 @@ const movieJSON = function() {
             "writer": "[日] 东野圭吾 ",
             "judgements": 311352,
             "publicHouse": " 南海出版公司 ",
-            "price": " 39.50元"
+            "price": " 39.50元",
+            "area": "日"
         },
         {
             "name": "小王子",
@@ -28,7 +30,8 @@ const movieJSON = function() {
             "writer": "[法] 圣埃克苏佩里 ",
             "judgements": 260866,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 22.00元"
+            "price": " 22.00元",
+            "area": "法"
         },
         {
             "name": "白夜行",
@@ -38,7 +41,8 @@ const movieJSON = function() {
             "writer": "[日] 东野圭吾 ",
             "judgements": 228853,
             "publicHouse": " 南海出版公司 ",
-            "price": " 29.80元"
+            "price": " 29.80元",
+            "area": "日"
         },
         {
             "name": "围城",
@@ -48,7 +52,8 @@ const movieJSON = function() {
             "writer": "[中] 钱锺书 ",
             "judgements": 209564,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 19.00"
+            "price": " 19.00",
+            "area": "中"
         },
         {
             "name": "三体",
@@ -58,7 +63,8 @@ const movieJSON = function() {
             "writer": "[中] 刘慈欣 ",
             "judgements": 185125,
             "publicHouse": " 重庆出版社 ",
-            "price": " 23.00"
+            "price": " 23.00",
+            "area": "中"
         },
         {
             "name": "挪威的森林",
@@ -68,7 +74,8 @@ const movieJSON = function() {
             "writer": "[日] 村上春树 ",
             "judgements": 202905,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 18.80元"
+            "price": " 18.80元",
+            "area": "日"
         },
         {
             "name": "嫌疑人X的献身",
@@ -78,7 +85,8 @@ const movieJSON = function() {
             "writer": "[日] 东野圭吾 ",
             "judgements": 179286,
             "publicHouse": " 南海出版公司 ",
-            "price": " 28.00"
+            "price": " 28.00",
+            "area": "日"
         },
         {
             "name": "活着",
@@ -88,7 +96,8 @@ const movieJSON = function() {
             "writer": "[中] 余华 ",
             "judgements": 161353,
             "publicHouse": " 南海出版公司 ",
-            "price": " 12.00元"
+            "price": " 12.00元",
+            "area": "中"
         },
         {
             "name": "红楼梦",
@@ -98,7 +107,8 @@ const movieJSON = function() {
             "writer": "[清] 曹雪芹 著 ",
             "judgements": 139001,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 59.70元"
+            "price": " 59.70元",
+            "area": "清"
         },
         {
             "name": "百年孤独",
@@ -108,7 +118,8 @@ const movieJSON = function() {
             "writer": "[哥伦比亚] 加西亚·马尔克斯 ",
             "judgements": 143805,
             "publicHouse": " 南海出版公司 ",
-            "price": " 39.50元"
+            "price": " 39.50元",
+            "area": "哥"
         },
         {
             "name": "看见",
@@ -118,7 +129,8 @@ const movieJSON = function() {
             "writer": "[中] 柴静 ",
             "judgements": 139853,
             "publicHouse": " 广西师范大学出版社 ",
-            "price": " 39.80元"
+            "price": " 39.80元",
+            "area": "中"
         },
         {
             "name": "不能承受的生命之轻",
@@ -128,7 +140,8 @@ const movieJSON = function() {
             "writer": "[捷克] 米兰·昆德拉 ",
             "judgements": 144716,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 23.00元"
+            "price": " 23.00元",
+            "area": "捷"
         },
         {
             "name": "达·芬奇密码",
@@ -138,7 +151,8 @@ const movieJSON = function() {
             "writer": "[美] 丹·布朗 ",
             "judgements": 136375,
             "publicHouse": " 上海人民出版社 ",
-            "price": " 28.00元"
+            "price": " 28.00元",
+            "area": "美"
         },
         {
             "name": "平凡的世界（全三部）",
@@ -148,7 +162,8 @@ const movieJSON = function() {
             "writer": "[中] 路遥 ",
             "judgements": 116095,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 64.00元"
+            "price": " 64.00元",
+            "area": "中"
         },
         {
             "name": "三体Ⅱ",
@@ -158,7 +173,8 @@ const movieJSON = function() {
             "writer": "[中] 刘慈欣 ",
             "judgements": 108885,
             "publicHouse": " 重庆出版社 ",
-            "price": " 32.00"
+            "price": " 32.00",
+            "area": "中"
         },
         {
             "name": "三体Ⅲ",
@@ -168,7 +184,8 @@ const movieJSON = function() {
             "writer": "[中] 刘慈欣 ",
             "judgements": 109092,
             "publicHouse": " 重庆出版社 ",
-            "price": " 38.00元"
+            "price": " 38.00元",
+            "area": "中"
         },
         {
             "name": "简爱（英文全本）",
@@ -178,7 +195,8 @@ const movieJSON = function() {
             "writer": "[英] 夏洛蒂·勃朗特 ",
             "judgements": 115980,
             "publicHouse": " 世界图书出版公司 ",
-            "price": " 18.00元"
+            "price": " 18.00元",
+            "area": "英"
         },
         {
             "name": "哈利·波特与魔法石",
@@ -188,7 +206,8 @@ const movieJSON = function() {
             "writer": "[英] J. K. 罗琳 ",
             "judgements": 95206,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 19.50元"
+            "price": " 19.50元",
+            "area": "英"
         },
         {
             "name": "天才在左 疯子在右",
@@ -198,7 +217,8 @@ const movieJSON = function() {
             "writer": "[中] 高铭 ",
             "judgements": 106212,
             "publicHouse": " 武汉大学出版社 ",
-            "price": " 29.80元"
+            "price": " 29.80元",
+            "area": "中"
         },
         {
             "name": "我们仨",
@@ -208,7 +228,8 @@ const movieJSON = function() {
             "writer": "[中] 杨绛 ",
             "judgements": 96822,
             "publicHouse": " 生活·读书·新知三联书店 ",
-            "price": " 18.80元"
+            "price": " 18.80元",
+            "area": "中"
         },
         {
             "name": "傲慢与偏见",
@@ -218,7 +239,8 @@ const movieJSON = function() {
             "writer": "[英] 奥斯丁 ",
             "judgements": 94426,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 13.00元"
+            "price": " 13.00元",
+            "area": "英"
         },
         {
             "name": "送你一颗子弹",
@@ -228,7 +250,8 @@ const movieJSON = function() {
             "writer": "[中] 刘瑜 ",
             "judgements": 96064,
             "publicHouse": " 上海三联书店 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "中"
         },
         {
             "name": "飘",
@@ -238,7 +261,8 @@ const movieJSON = function() {
             "writer": "[美国] 玛格丽特·米切尔 ",
             "judgements": 86930,
             "publicHouse": " 译林出版社 ",
-            "price": " 40.00元"
+            "price": " 40.00元",
+            "area": "美"
         },
         {
             "name": "明朝那些事儿（壹）",
@@ -248,7 +272,8 @@ const movieJSON = function() {
             "writer": "[中] 当年明月 ",
             "judgements": 91949,
             "publicHouse": " 中国友谊出版公司 ",
-            "price": " 24.80"
+            "price": " 24.80",
+            "area": "中"
         },
         {
             "name": "倾城之恋",
@@ -257,7 +282,8 @@ const movieJSON = function() {
             "coverUrl": "https://img3.doubanio.com/view/subject/m/public/s1077102.jpg",
             "writer": "[中] 花城出版社 ",
             "judgements": 95669,
-            "publicHouse": " 1997-3-1 "
+            "publicHouse": " 1997-3-1 ",
+            "area": "中"
         },
         {
             "name": "目送",
@@ -267,7 +293,8 @@ const movieJSON = function() {
             "writer": "[中] 龙应台 ",
             "judgements": 92379,
             "publicHouse": " 生活·读书·新知三联书店 ",
-            "price": " 39.00元"
+            "price": " 39.00元",
+            "area": "中"
         },
         {
             "name": "月亮和六便士",
@@ -277,7 +304,8 @@ const movieJSON = function() {
             "writer": "[英] 毛姆 ",
             "judgements": 85794,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 15.00元"
+            "price": " 15.00元",
+            "area": "英"
         },
         {
             "name": "情人",
@@ -287,7 +315,8 @@ const movieJSON = function() {
             "writer": "[法] 玛格丽特·杜拉斯 ",
             "judgements": 93198,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 20.00元"
+            "price": " 20.00元",
+            "area": "法"
         },
         {
             "name": "恶意",
@@ -297,7 +326,8 @@ const movieJSON = function() {
             "writer": "[日] 东野圭吾 ",
             "judgements": 85838,
             "publicHouse": " 南海出版公司 ",
-            "price": " 18.00"
+            "price": " 18.00",
+            "area": "日"
         },
         {
             "name": "霍乱时期的爱情",
@@ -307,7 +337,8 @@ const movieJSON = function() {
             "writer": "[哥伦比亚] 加西亚·马尔克斯 ",
             "judgements": 79893,
             "publicHouse": " 南海出版公司 ",
-            "price": " 39.50元"
+            "price": " 39.50元",
+            "area": "哥"
         },
         {
             "name": "哈利·波特与阿兹卡班的囚徒",
@@ -317,7 +348,8 @@ const movieJSON = function() {
             "writer": "[英] J. K. 罗琳 ",
             "judgements": 78937,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 26.50元"
+            "price": " 26.50元",
+            "area": "英"
         },
         {
             "name": "狼图腾",
@@ -327,7 +359,8 @@ const movieJSON = function() {
             "writer": "[中] 姜戎 ",
             "judgements": 84793,
             "publicHouse": " 长江文艺出版社 ",
-            "price": " 32.00元"
+            "price": " 32.00元",
+            "area": "中"
         },
         {
             "name": "哈利·波特与火焰杯",
@@ -337,7 +370,8 @@ const movieJSON = function() {
             "writer": "[英] J. K. 罗琳 ",
             "judgements": 76382,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 39.80元"
+            "price": " 39.80元",
+            "area": "英"
         },
         {
             "name": "边城",
@@ -347,7 +381,8 @@ const movieJSON = function() {
             "writer": "[中] 沈从文 ",
             "judgements": 80494,
             "publicHouse": " 北岳文艺出版社 ",
-            "price": " 12.00元"
+            "price": " 12.00元",
+            "area": "中"
         },
         {
             "name": "1Q84 BOOK 1",
@@ -357,7 +392,8 @@ const movieJSON = function() {
             "writer": "[日] 村上春树 ",
             "judgements": 83519,
             "publicHouse": " 南海出版公司 ",
-            "price": " 36.00元"
+            "price": " 36.00元",
+            "area": "日"
         },
         {
             "name": "哈利·波特与密室",
@@ -367,7 +403,8 @@ const movieJSON = function() {
             "writer": "[英] J. K. 罗琳 ",
             "judgements": 76355,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 22.00元"
+            "price": " 22.00元",
+            "area": "英"
         },
         {
             "name": "穆斯林的葬礼",
@@ -377,7 +414,8 @@ const movieJSON = function() {
             "writer": "[中] 霍达 ",
             "judgements": 79926,
             "publicHouse": " 北京十月文艺出版社 ",
-            "price": " 32.00"
+            "price": " 32.00",
+            "area": "中"
         },
         {
             "name": "许三观卖血记",
@@ -387,7 +425,8 @@ const movieJSON = function() {
             "writer": "[中] 余华 ",
             "judgements": 74674,
             "publicHouse": " 南海出版公司 ",
-            "price": " 16.80元"
+            "price": " 16.80元",
+            "area": "中"
         },
         {
             "name": "撒哈拉的故事",
@@ -397,7 +436,8 @@ const movieJSON = function() {
             "writer": "[中] 三毛 ",
             "judgements": 71545,
             "publicHouse": " 皇冠出版社 ",
-            "price": " 160 TWD"
+            "price": " 160 TWD",
+            "area": "中"
         },
         {
             "name": "万历十五年",
@@ -407,7 +447,8 @@ const movieJSON = function() {
             "writer": "[美] 黄仁宇 ",
             "judgements": 71557,
             "publicHouse": " 生活·读书·新知三联书店 ",
-            "price": " 18.00元"
+            "price": " 18.00元",
+            "area": "美"
         },
         {
             "name": "莲花",
@@ -417,7 +458,8 @@ const movieJSON = function() {
             "writer": "[中] 安妮宝贝 ",
             "judgements": 79635,
             "publicHouse": " 作家出版社 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "中"
         },
         {
             "name": "向左走·向右走",
@@ -427,7 +469,8 @@ const movieJSON = function() {
             "writer": "[中] 幾米 ",
             "judgements": 73935,
             "publicHouse": " 生活·读书·新知三联书店 ",
-            "price": " 16.00元"
+            "price": " 16.00元",
+            "area": "中"
         },
         {
             "name": "哈利·波特与混血王子",
@@ -437,7 +480,8 @@ const movieJSON = function() {
             "writer": "[英] J. K. 罗琳 ",
             "judgements": 66926,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 58.00元"
+            "price": " 58.00元",
+            "area": "英"
         },
         {
             "name": "盗墓笔记",
@@ -447,7 +491,8 @@ const movieJSON = function() {
             "writer": "[中] 南派三叔 ",
             "judgements": 70715,
             "publicHouse": " 中国友谊出版公司 ",
-            "price": " 26.80元"
+            "price": " 26.80元",
+            "area": "中"
         },
         {
             "name": "黄金时代",
@@ -457,7 +502,8 @@ const movieJSON = function() {
             "writer": "[中] 王小波 ",
             "judgements": 66170,
             "publicHouse": " 花城出版社 ",
-            "price": " 19.00元"
+            "price": " 19.00元",
+            "area": "中"
         },
         {
             "name": "窗边的小豆豆",
@@ -467,7 +513,8 @@ const movieJSON = function() {
             "writer": "[日] 黑柳彻子 著 ",
             "judgements": 66549,
             "publicHouse": " 南海出版公司 ",
-            "price": " 20.00元"
+            "price": " 20.00元",
+            "area": "日"
         },
         {
             "name": "苏菲的世界",
@@ -477,7 +524,8 @@ const movieJSON = function() {
             "writer": "[中] （挪威）乔斯坦·贾德 ",
             "judgements": 67942,
             "publicHouse": " 作家出版社 ",
-            "price": " 26.80元"
+            "price": " 26.80元",
+            "area": "中"
         },
         {
             "name": "天龙八部",
@@ -487,7 +535,8 @@ const movieJSON = function() {
             "writer": "[中] 金庸 ",
             "judgements": 61122,
             "publicHouse": " 生活.读书.新知三联书店 ",
-            "price": " 96.0"
+            "price": " 96.0",
+            "area": "中"
         },
         {
             "name": "三国演义（全二册）",
@@ -497,7 +546,8 @@ const movieJSON = function() {
             "writer": "[明] 罗贯中 ",
             "judgements": 60080,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 39.50元"
+            "price": " 39.50元",
+            "area": "明"
         },
         {
             "name": "哈利·波特与凤凰社",
@@ -507,7 +557,8 @@ const movieJSON = function() {
             "writer": "[英] J. K. 罗琳 ",
             "judgements": 63359,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 59.00元"
+            "price": " 59.00元",
+            "area": "英"
         },
         {
             "name": "悟空传",
@@ -517,7 +568,8 @@ const movieJSON = function() {
             "writer": "[中] 今何在 ",
             "judgements": 66576,
             "publicHouse": " 光明日报出版社 ",
-            "price": " 14.80元"
+            "price": " 14.80元",
+            "area": "中"
         },
         {
             "name": "牧羊少年奇幻之旅",
@@ -527,7 +579,8 @@ const movieJSON = function() {
             "writer": "[巴西]保罗·柯艾略 ",
             "judgements": 64021,
             "publicHouse": " 南海出版公司 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "巴"
         },
         {
             "name": "哈利·波特与死亡圣器",
@@ -537,7 +590,8 @@ const movieJSON = function() {
             "writer": "[英] J. K. 罗琳 ",
             "judgements": 59843,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 66.00元"
+            "price": " 66.00元",
+            "area": "英"
         },
         {
             "name": "海边的卡夫卡",
@@ -547,7 +601,8 @@ const movieJSON = function() {
             "writer": "[日] 村上春树 ",
             "judgements": 65997,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "日"
         },
         {
             "name": "灿烂千阳",
@@ -557,7 +612,8 @@ const movieJSON = function() {
             "writer": "[美] 卡勒德·胡赛尼 ",
             "judgements": 59458,
             "publicHouse": " 上海人民出版社 ",
-            "price": " 28.00元"
+            "price": " 28.00元",
+            "area": "美"
         },
         {
             "name": "呼啸山庄",
@@ -567,7 +623,8 @@ const movieJSON = function() {
             "writer": "[中] （英）勃朗特 ",
             "judgements": 62545,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 27.30元"
+            "price": " 27.30元",
+            "area": "中"
         },
         {
             "name": "亲爱的安德烈",
@@ -577,7 +634,8 @@ const movieJSON = function() {
             "writer": "[中] 龙应台 ",
             "judgements": 59856,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 26.00"
+            "price": " 26.00",
+            "area": "中"
         },
         {
             "name": "兄弟（上）",
@@ -587,7 +645,8 @@ const movieJSON = function() {
             "writer": "[中] 余华 ",
             "judgements": 61927,
             "publicHouse": " 上海文艺出版社 ",
-            "price": " 16.00元"
+            "price": " 16.00元",
+            "area": "中"
         },
         {
             "name": "老人与海",
@@ -597,7 +656,8 @@ const movieJSON = function() {
             "writer": "[中] 海明威 ",
             "judgements": 61966,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 8.20元"
+            "price": " 8.20元",
+            "area": "中"
         },
         {
             "name": "少有人走的路",
@@ -607,7 +667,8 @@ const movieJSON = function() {
             "writer": "[美] M·斯科特·派克 ",
             "judgements": 60660,
             "publicHouse": " 吉林文史出版社 ",
-            "price": " 26.00元"
+            "price": " 26.00元",
+            "area": "美"
         },
         {
             "name": "基督山伯爵",
@@ -617,7 +678,8 @@ const movieJSON = function() {
             "writer": "[中] 大仲马 ",
             "judgements": 56060,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 43.90元"
+            "price": " 43.90元",
+            "area": "中"
         },
         {
             "name": "人类简史",
@@ -627,7 +689,8 @@ const movieJSON = function() {
             "writer": "[以色列]尤瓦尔·赫拉利 ",
             "judgements": 54741,
             "publicHouse": " 中信出版社 ",
-            "price": " CNY 68.00"
+            "price": " CNY 68.00",
+            "area": "以"
         },
         {
             "name": "1984",
@@ -637,7 +700,8 @@ const movieJSON = function() {
             "writer": "[英] 乔治·奥威尔 ",
             "judgements": 53014,
             "publicHouse": " 北京十月文艺出版社 ",
-            "price": " 28.00"
+            "price": " 28.00",
+            "area": "英"
         },
         {
             "name": "笑傲江湖（全四册）",
@@ -647,7 +711,8 @@ const movieJSON = function() {
             "writer": "[中] 金庸 ",
             "judgements": 54298,
             "publicHouse": " 生活·读书·新知三联书店 ",
-            "price": " 76.80元"
+            "price": " 76.80元",
+            "area": "中"
         },
         {
             "name": "民主的细节",
@@ -657,7 +722,8 @@ const movieJSON = function() {
             "writer": "[中] 刘瑜 ",
             "judgements": 56926,
             "publicHouse": " 上海三联书店 ",
-            "price": " 25.00"
+            "price": " 25.00",
+            "area": "中"
         },
         {
             "name": "人间失格",
@@ -667,7 +733,8 @@ const movieJSON = function() {
             "writer": "[中] 太宰治 ",
             "judgements": 59227,
             "publicHouse": " 吉林出版集团有限责任公司 ",
-            "price": " 16.00元"
+            "price": " 16.00元",
+            "area": "中"
         },
         {
             "name": "福尔摩斯探案全集（上中下）",
@@ -677,7 +744,8 @@ const movieJSON = function() {
             "writer": "[英] 阿·柯南道尔 ",
             "judgements": 51695,
             "publicHouse": " 丁钟华 等 ",
-            "price": " 1981-8 "
+            "price": " 1981-8 ",
+            "area": "英"
         },
         {
             "name": "无声告白",
@@ -687,7 +755,8 @@ const movieJSON = function() {
             "writer": "[美] 伍绮诗 ",
             "judgements": 58441,
             "publicHouse": " 江苏凤凰文艺出版社 ",
-            "price": " 35.00元"
+            "price": " 35.00元",
+            "area": "美"
         },
         {
             "name": "遇见未知的自己",
@@ -697,7 +766,8 @@ const movieJSON = function() {
             "writer": "[中] 张德芬 ",
             "judgements": 57355,
             "publicHouse": " 华夏出版社 ",
-            "price": " 29.00"
+            "price": " 29.00",
+            "area": "中"
         },
         {
             "name": "情书",
@@ -707,7 +777,8 @@ const movieJSON = function() {
             "writer": "[日] 岩井俊二 ",
             "judgements": 52043,
             "publicHouse": " 天津人民出版社 ",
-            "price": " 18.00元"
+            "price": " 18.00元",
+            "area": "日"
         },
         {
             "name": "茶花女",
@@ -717,7 +788,8 @@ const movieJSON = function() {
             "writer": "[中] 小仲马 ",
             "judgements": 55204,
             "publicHouse": " 外国文学出版社 ",
-            "price": " 9.00元"
+            "price": " 9.00元",
+            "area": "中"
         },
         {
             "name": "白鹿原",
@@ -727,7 +799,8 @@ const movieJSON = function() {
             "writer": "[中] 陈忠实 ",
             "judgements": 50479,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 28.00元"
+            "price": " 28.00元",
+            "area": "中"
         },
         {
             "name": "一个陌生女人的来信",
@@ -737,7 +810,8 @@ const movieJSON = function() {
             "writer": "[奥] 斯台芬·茨威格 ",
             "judgements": 51066,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 20.00元"
+            "price": " 20.00元",
+            "area": "奥"
         },
         {
             "name": "神雕侠侣",
@@ -747,7 +821,8 @@ const movieJSON = function() {
             "writer": "[中] 金庸 ",
             "judgements": 49150,
             "publicHouse": " 生活·读书·新知三联书店 ",
-            "price": " 76.80元"
+            "price": " 76.80元",
+            "area": "中"
         },
         {
             "name": "沉默的大多数",
@@ -757,7 +832,8 @@ const movieJSON = function() {
             "writer": "[中] 王小波 ",
             "judgements": 48090,
             "publicHouse": " 中国青年出版社 ",
-            "price": " 27.00元"
+            "price": " 27.00元",
+            "area": "中"
         },
         {
             "name": "当我谈跑步时我谈些什么",
@@ -767,7 +843,8 @@ const movieJSON = function() {
             "writer": "[日] 村上春树 ",
             "judgements": 50644,
             "publicHouse": " 南海出版公司 ",
-            "price": " 25.00"
+            "price": " 25.00",
+            "area": "日"
         },
         {
             "name": "东方快车谋杀案",
@@ -777,7 +854,8 @@ const movieJSON = function() {
             "writer": "[英] 阿加莎·克里斯蒂 ",
             "judgements": 44582,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 18.00元"
+            "price": " 18.00元",
+            "area": "英"
         },
         {
             "name": "这些人，那些事",
@@ -787,7 +865,8 @@ const movieJSON = function() {
             "writer": "[中] 吴念真 ",
             "judgements": 45499,
             "publicHouse": " 译林出版社 ",
-            "price": " 28.00元"
+            "price": " 28.00元",
+            "area": "中"
         },
         {
             "name": "肖申克的救赎",
@@ -797,7 +876,8 @@ const movieJSON = function() {
             "writer": "[美] 斯蒂芬·金 ",
             "judgements": 43398,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 29.90元"
+            "price": " 29.90元",
+            "area": "美"
         },
         {
             "name": "鲁滨逊漂流记",
@@ -807,7 +887,8 @@ const movieJSON = function() {
             "writer": "[英] 笛福 ",
             "judgements": 50144,
             "publicHouse": " 广西民族出版社 ",
-            "price": " 9.20元"
+            "price": " 9.20元",
+            "area": "英"
         },
         {
             "name": "局外人",
@@ -817,7 +898,8 @@ const movieJSON = function() {
             "writer": "[法] 阿尔贝·加缪 ",
             "judgements": 43741,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 22.00元"
+            "price": " 22.00元",
+            "area": "法"
         },
         {
             "name": "这些都是你给我的爱",
@@ -827,7 +909,8 @@ const movieJSON = function() {
             "writer": "[中] 文：安东尼 ",
             "judgements": 46006,
             "publicHouse": " 长江文艺出版社 ",
-            "price": " 24.80元"
+            "price": " 24.80元",
+            "area": "中"
         },
         {
             "name": "巴黎圣母院",
@@ -837,7 +920,8 @@ const movieJSON = function() {
             "writer": "[法]雨果 ",
             "judgements": 46218,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 22.50元"
+            "price": " 22.50元",
+            "area": "法"
         },
         {
             "name": "羊脂球",
@@ -847,7 +931,8 @@ const movieJSON = function() {
             "writer": "[中] （法）莫泊桑 ",
             "judgements": 47418,
             "publicHouse": " 北京燕山出版社 ",
-            "price": " 13.50元"
+            "price": " 13.50元",
+            "area": "中"
         },
         {
             "name": "喜宝",
@@ -857,7 +942,8 @@ const movieJSON = function() {
             "writer": "[中] 亦舒 ",
             "judgements": 47438,
             "publicHouse": " 新世界出版社 ",
-            "price": " 22.00元"
+            "price": " 22.00元",
+            "area": "中"
         },
         {
             "name": "陪安东尼度过漫长岁月",
@@ -867,7 +953,8 @@ const movieJSON = function() {
             "writer": "[中] 安东尼 ",
             "judgements": 44408,
             "publicHouse": " 长江文艺出版社 ",
-            "price": " 18.00"
+            "price": " 18.00",
+            "area": "中"
         },
         {
             "name": "呐喊",
@@ -877,7 +964,8 @@ const movieJSON = function() {
             "writer": "[中] 鲁迅 ",
             "judgements": 41454,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 0.36元"
+            "price": " 0.36元",
+            "area": "中"
         },
         {
             "name": "无人生还",
@@ -887,7 +975,8 @@ const movieJSON = function() {
             "writer": "[英] 阿加莎・克里斯蒂 ",
             "judgements": 41220,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 19.00"
+            "price": " 19.00",
+            "area": "英"
         },
         {
             "name": "爱你就像爱生命",
@@ -897,7 +986,8 @@ const movieJSON = function() {
             "writer": "[中] 王小波 ",
             "judgements": 41451,
             "publicHouse": " 上海锦绣文章出版社 ",
-            "price": " 18.00元"
+            "price": " 18.00元",
+            "area": "中"
         },
         {
             "name": "红玫瑰与白玫瑰",
@@ -907,7 +997,8 @@ const movieJSON = function() {
             "writer": "[中] 张爱玲 ",
             "judgements": 43914,
             "publicHouse": " 花城出版社 ",
-            "price": " 12.80元"
+            "price": " 12.80元",
+            "area": "中"
         },
         {
             "name": "巨人的陨落",
@@ -917,7 +1008,8 @@ const movieJSON = function() {
             "writer": "[英] 肯·福莱特 ",
             "judgements": 40450,
             "publicHouse": " 江苏凤凰文艺出版社 ",
-            "price": " 129.80元"
+            "price": " 129.80元",
+            "area": "英"
         },
         {
             "name": "了不起的盖茨比",
@@ -927,7 +1019,8 @@ const movieJSON = function() {
             "writer": "[中] 菲茨杰拉德 ",
             "judgements": 43492,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 12.00元"
+            "price": " 12.00元",
+            "area": "中"
         },
         {
             "name": "华胥引（全二册）",
@@ -937,7 +1030,8 @@ const movieJSON = function() {
             "writer": "[中] 唐七公子 ",
             "judgements": 42510,
             "publicHouse": " 现代出版社 ",
-            "price": " 39.80元"
+            "price": " 39.80元",
+            "area": "中"
         },
         {
             "name": "乌合之众",
@@ -947,7 +1041,8 @@ const movieJSON = function() {
             "writer": "[中] （法）勒庞 ",
             "judgements": 43605,
             "publicHouse": " 中央编译出版社 ",
-            "price": " 16.00元"
+            "price": " 16.00元",
+            "area": "中"
         },
         {
             "name": "动物农场",
@@ -957,7 +1052,8 @@ const movieJSON = function() {
             "writer": "[英] 乔治·奥威尔 ",
             "judgements": 38203,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 10.00元"
+            "price": " 10.00元",
+            "area": "英"
         },
         {
             "name": "鬼吹灯之精绝古城",
@@ -967,7 +1063,8 @@ const movieJSON = function() {
             "writer": "[中] 天下霸唱 ",
             "judgements": 43086,
             "publicHouse": " 安徽文艺出版社 ",
-            "price": " 25.0"
+            "price": " 25.0",
+            "area": "中"
         },
         {
             "name": "安徒生童话故事集",
@@ -977,7 +1074,8 @@ const movieJSON = function() {
             "writer": "[中] （丹麦）安徒生 ",
             "judgements": 37991,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 25.00"
+            "price": " 25.00",
+            "area": "中"
         },
         {
             "name": "半生缘",
@@ -987,7 +1085,8 @@ const movieJSON = function() {
             "writer": "[中] 张爱玲 ",
             "judgements": 40135,
             "publicHouse": " 北京十月文艺出版社 ",
-            "price": " 28.00元"
+            "price": " 28.00元",
+            "area": "中"
         },
         {
             "name": "地下铁",
@@ -997,7 +1096,8 @@ const movieJSON = function() {
             "writer": "[中] 幾米 ",
             "judgements": 40546,
             "publicHouse": " 辽宁教育出版社 ",
-            "price": " 32.00元"
+            "price": " 32.00元",
+            "area": "中"
         },
         {
             "name": "骆驼祥子",
@@ -1007,7 +1107,8 @@ const movieJSON = function() {
             "writer": "[中] 老舍 ",
             "judgements": 39873,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 12.00"
+            "price": " 12.00",
+            "area": "中"
         },
         {
             "name": "射雕英雄传（全四册）",
@@ -1017,7 +1118,8 @@ const movieJSON = function() {
             "writer": "[中] 金庸 ",
             "judgements": 35434,
             "publicHouse": " 生活·读书·新知三联书店 ",
-            "price": " 47.00元"
+            "price": " 47.00元",
+            "area": "中"
         },
         {
             "name": "月亮忘記了",
@@ -1027,7 +1129,8 @@ const movieJSON = function() {
             "writer": "[中] 幾米 ",
             "judgements": 36568,
             "publicHouse": " 格林 ",
-            "price": " NT$ 299"
+            "price": " NT$ 299",
+            "area": "中"
         },
         {
             "name": "此间的少年",
@@ -1037,7 +1140,8 @@ const movieJSON = function() {
             "writer": "[中] 江南 ",
             "judgements": 37111,
             "publicHouse": " 华文出版社 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "中"
         },
         {
             "name": "如何阅读一本书",
@@ -1047,7 +1151,8 @@ const movieJSON = function() {
             "writer": "[美] 莫提默·J. 艾德勒 ",
             "judgements": 36999,
             "publicHouse": " 商务印书馆 ",
-            "price": " 38.00元"
+            "price": " 38.00元",
+            "area": "美"
         },
         {
             "name": "孤独六讲",
@@ -1057,7 +1162,8 @@ const movieJSON = function() {
             "writer": "[中] 蒋勋 ",
             "judgements": 38539,
             "publicHouse": " 广西师范大学出版社 ",
-            "price": " 36.00元"
+            "price": " 36.00元",
+            "area": "中"
         },
         {
             "name": "一個人住第5年",
@@ -1067,7 +1173,8 @@ const movieJSON = function() {
             "writer": "[中] 高木直子 ",
             "judgements": 35814,
             "publicHouse": " 大田 ",
-            "price": " NT$220"
+            "price": " NT$220",
+            "area": "中"
         },
         {
             "name": "步步惊心",
@@ -1077,7 +1184,8 @@ const movieJSON = function() {
             "writer": "[中] 桐华 ",
             "judgements": 36766,
             "publicHouse": " 民族出版社 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "中"
         },
         {
             "name": "一个人的朝圣",
@@ -1087,7 +1195,8 @@ const movieJSON = function() {
             "writer": "[中] 【英】蕾秋·乔伊斯 ",
             "judgements": 37022,
             "publicHouse": " 北京联合出版公司 ",
-            "price": " 32.80"
+            "price": " 32.80",
+            "area": "中"
         },
         {
             "name": "常识",
@@ -1097,7 +1206,8 @@ const movieJSON = function() {
             "writer": "[中] 梁文道 ",
             "judgements": 36667,
             "publicHouse": " 广西师范大学出版社 ",
-            "price": " 38.00"
+            "price": " 38.00",
+            "area": "中"
         },
         {
             "name": "阿Q正传",
@@ -1107,7 +1217,8 @@ const movieJSON = function() {
             "writer": "[中] 鲁迅 ",
             "judgements": 33919,
             "publicHouse": " 上海书店出版社 ",
-            "price": " 14.50元"
+            "price": " 14.50元",
+            "area": "中"
         },
         {
             "name": "寻路中国",
@@ -1117,7 +1228,8 @@ const movieJSON = function() {
             "writer": "[美] 彼得·海斯勒 ",
             "judgements": 32449,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 33.00元"
+            "price": " 33.00元",
+            "area": "美"
         },
         {
             "name": "时间旅行者的妻子",
@@ -1127,7 +1239,8 @@ const movieJSON = function() {
             "writer": "[美] 奥德丽·尼芬格 ",
             "judgements": 36260,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 29.90元"
+            "price": " 29.90元",
+            "area": "美"
         },
         {
             "name": "荆棘鸟",
@@ -1137,7 +1250,8 @@ const movieJSON = function() {
             "writer": "[澳] 考琳·麦卡洛 ",
             "judgements": 33463,
             "publicHouse": " 译林出版社 ",
-            "price": " 28.00元"
+            "price": " 28.00元",
+            "area": "澳"
         },
         {
             "name": "刀锋",
@@ -1147,7 +1261,8 @@ const movieJSON = function() {
             "writer": "[英]毛姆 ",
             "judgements": 31878,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 18.00元"
+            "price": " 18.00元",
+            "area": "英"
         },
         {
             "name": "哭泣的骆驼",
@@ -1157,7 +1272,8 @@ const movieJSON = function() {
             "writer": "[中] 三毛 ",
             "judgements": 31703,
             "publicHouse": " 哈尔滨出版社 ",
-            "price": " 15.80元"
+            "price": " 15.80元",
+            "area": "中"
         },
         {
             "name": "孩子你慢慢来",
@@ -1167,7 +1283,8 @@ const movieJSON = function() {
             "writer": "[中] 龙应台 ",
             "judgements": 32380,
             "publicHouse": " 生活·读书·新知三联书店 ",
-            "price": " 28.00元"
+            "price": " 28.00元",
+            "area": "中"
         },
         {
             "name": "一只特立独行的猪",
@@ -1177,7 +1294,8 @@ const movieJSON = function() {
             "writer": "[中] 王小波 ",
             "judgements": 32385,
             "publicHouse": " 北方文艺出版社 ",
-            "price": " 18.80元"
+            "price": " 18.80元",
+            "area": "中"
         },
         {
             "name": "失恋33天",
@@ -1187,7 +1305,8 @@ const movieJSON = function() {
             "writer": "[中] 鲍鲸鲸 ",
             "judgements": 34633,
             "publicHouse": " 中信出版社 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "中"
         },
         {
             "name": "你好，旧时光（上 下）",
@@ -1197,7 +1316,8 @@ const movieJSON = function() {
             "writer": "[中] 八月长安 ",
             "judgements": 31082,
             "publicHouse": " 新世界出版社 ",
-            "price": " 39.80元"
+            "price": " 39.80元",
+            "area": "中"
         },
         {
             "name": "梦里花落知多少",
@@ -1207,7 +1327,8 @@ const movieJSON = function() {
             "writer": "[中] 三毛 ",
             "judgements": 31326,
             "publicHouse": " 北京十月文艺出版社 ",
-            "price": " 28.00元"
+            "price": " 28.00元",
+            "area": "中"
         },
         {
             "name": "格林童话全集",
@@ -1217,7 +1338,8 @@ const movieJSON = function() {
             "writer": "[中] 格林兄弟 ",
             "judgements": 30687,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 21.45元"
+            "price": " 21.45元",
+            "area": "中"
         },
         {
             "name": "尘埃落定",
@@ -1227,7 +1349,8 @@ const movieJSON = function() {
             "writer": "[中] 阿来 ",
             "judgements": 32646,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 22.0"
+            "price": " 22.0",
+            "area": "中"
         },
         {
             "name": "麦琪的礼物",
@@ -1237,7 +1360,8 @@ const movieJSON = function() {
             "writer": "[美] 欧·亨利 ",
             "judgements": 31885,
             "publicHouse": " 上海社会科学院出版社 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "美"
         },
         {
             "name": "那些回不去的年少时光",
@@ -1247,7 +1371,8 @@ const movieJSON = function() {
             "writer": "[中] 桐华 ",
             "judgements": 31342,
             "publicHouse": " 江苏文艺出版社 ",
-            "price": " 23.80元"
+            "price": " 23.80元",
+            "area": "中"
         },
         {
             "name": "金锁记",
@@ -1257,7 +1382,8 @@ const movieJSON = function() {
             "writer": "[中] 张爱玲 ",
             "judgements": 31770,
             "publicHouse": " 哈尔滨出版社 ",
-            "price": " 13.5元"
+            "price": " 13.5元",
+            "area": "中"
         },
         {
             "name": "房思琪的初恋乐园",
@@ -1267,7 +1393,8 @@ const movieJSON = function() {
             "writer": "[中] 林奕含 ",
             "judgements": 29491,
             "publicHouse": " 北京联合出版公司 ",
-            "price": " 45.00元"
+            "price": " 45.00元",
+            "area": "中"
         },
         {
             "name": "海贼王",
@@ -1277,7 +1404,8 @@ const movieJSON = function() {
             "writer": "[中] 尾田荣一郎 ",
             "judgements": 27570,
             "publicHouse": " 浙江人民美术出版社 ",
-            "price": " 7.50元"
+            "price": " 7.50元",
+            "area": "中"
         },
         {
             "name": "历史深处的忧虑",
@@ -1287,7 +1415,8 @@ const movieJSON = function() {
             "writer": "[中] 林达 ",
             "judgements": 29355,
             "publicHouse": " 生活·读书·新知三联书店 ",
-            "price": " 19.00元"
+            "price": " 19.00元",
+            "area": "中"
         },
         {
             "name": "城南旧事",
@@ -1297,7 +1426,8 @@ const movieJSON = function() {
             "writer": "[中] 林海音 文 ",
             "judgements": 29394,
             "publicHouse": " 中国青年出版社 ",
-            "price": " 16.00元"
+            "price": " 16.00元",
+            "area": "中"
         },
         {
             "name": "鹿鼎记（全五册）",
@@ -1307,7 +1437,8 @@ const movieJSON = function() {
             "writer": "[中] 金庸 ",
             "judgements": 29384,
             "publicHouse": " 广州出版社 花城出版社 ",
-            "price": " 108.00元"
+            "price": " 108.00元",
+            "area": "中"
         },
         {
             "name": "悲惨世界（上中下）",
@@ -1317,7 +1448,8 @@ const movieJSON = function() {
             "writer": "[法] 雨果 ",
             "judgements": 28815,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 66.00元"
+            "price": " 66.00元",
+            "area": "法"
         },
         {
             "name": "大地之灯",
@@ -1327,7 +1459,8 @@ const movieJSON = function() {
             "writer": "[中] 七堇年 ",
             "judgements": 31599,
             "publicHouse": " 长江文艺出版社 ",
-            "price": " 22.00元"
+            "price": " 22.00元",
+            "area": "中"
         },
         {
             "name": "我不喜欢这世界，我只喜欢你",
@@ -1337,7 +1470,8 @@ const movieJSON = function() {
             "writer": "[中] 乔一 ",
             "judgements": 30447,
             "publicHouse": " 湖南少年儿童出版社 ",
-            "price": " 29.80元"
+            "price": " 29.80元",
+            "area": "中"
         },
         {
             "name": "史蒂夫·乔布斯传",
@@ -1347,7 +1481,8 @@ const movieJSON = function() {
             "writer": "[美] 沃尔特·艾萨克森 ",
             "judgements": 29421,
             "publicHouse": " 中信出版社 ",
-            "price": " 68.00元"
+            "price": " 68.00元",
+            "area": "美"
         },
         {
             "name": "球状闪电",
@@ -1357,7 +1492,8 @@ const movieJSON = function() {
             "writer": "[中] 刘慈欣 ",
             "judgements": 29545,
             "publicHouse": " 四川科学技术出版社 ",
-            "price": " 22.00元"
+            "price": " 22.00元",
+            "area": "中"
         },
         {
             "name": "菊与刀",
@@ -1367,7 +1503,8 @@ const movieJSON = function() {
             "writer": "[中] （美）鲁思・本尼迪克特 ",
             "judgements": 31804,
             "publicHouse": " 商务印书馆 ",
-            "price": " 16.00"
+            "price": " 16.00",
+            "area": "中"
         },
         {
             "name": "东霓",
@@ -1377,7 +1514,8 @@ const movieJSON = function() {
             "writer": "[中] 笛安 ",
             "judgements": 31421,
             "publicHouse": " 长江文艺出版社 ",
-            "price": " 26.80元"
+            "price": " 26.80元",
+            "area": "中"
         },
         {
             "name": "长恨歌",
@@ -1387,7 +1525,8 @@ const movieJSON = function() {
             "writer": "[中] 王安忆 ",
             "judgements": 31260,
             "publicHouse": " 南海出版公司 ",
-            "price": " 22.00元"
+            "price": " 22.00元",
+            "area": "中"
         },
         {
             "name": "你一定爱读的极简欧洲史",
@@ -1397,7 +1536,8 @@ const movieJSON = function() {
             "writer": "[中] 约翰·赫斯特（John Hirst） ",
             "judgements": 30459,
             "publicHouse": " 广西师范大学出版社 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "中"
         },
         {
             "name": "看不见的城市",
@@ -1407,7 +1547,8 @@ const movieJSON = function() {
             "writer": "[意大利]伊塔洛·卡尔维诺 ",
             "judgements": 27865,
             "publicHouse": " 译林出版社 ",
-            "price": " 16.00元"
+            "price": " 16.00元",
+            "area": "意"
         },
         {
             "name": "香水",
@@ -1417,7 +1558,8 @@ const movieJSON = function() {
             "writer": "[德] 帕·聚斯金德 ",
             "judgements": 28736,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 20.00元"
+            "price": " 20.00元",
+            "area": "德"
         },
         {
             "name": "橙",
@@ -1427,7 +1569,8 @@ const movieJSON = function() {
             "writer": "[中] 安东尼 ",
             "judgements": 29175,
             "publicHouse": " 长江文艺出版社 ",
-            "price": " 28.80元"
+            "price": " 28.80元",
+            "area": "中"
         },
         {
             "name": "一九八四·动物农场",
@@ -1437,7 +1580,8 @@ const movieJSON = function() {
             "writer": "[英] 乔治·奥威尔 ",
             "judgements": 25902,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 23.00元"
+            "price": " 23.00元",
+            "area": "英"
         },
         {
             "name": "飞鸟集",
@@ -1447,7 +1591,8 @@ const movieJSON = function() {
             "writer": "[印] 罗宾德拉纳德·泰戈尔 ",
             "judgements": 27363,
             "publicHouse": " 哈尔滨出版社 ",
-            "price": " 16.80元"
+            "price": " 16.80元",
+            "area": "印"
         },
         {
             "name": "查令十字街84号",
@@ -1457,7 +1602,8 @@ const movieJSON = function() {
             "writer": "[美] 海莲·汉芙 ",
             "judgements": 29092,
             "publicHouse": " 译林出版社 ",
-            "price": " 18.00元"
+            "price": " 18.00元",
+            "area": "美"
         },
         {
             "name": "匆匆那年（上下）",
@@ -1467,7 +1613,8 @@ const movieJSON = function() {
             "writer": "[中] 九夜茴 ",
             "judgements": 28505,
             "publicHouse": " 东方出版社 ",
-            "price": " 29.00"
+            "price": " 29.00",
+            "area": "中"
         },
         {
             "name": "往事并不如烟",
@@ -1477,7 +1624,8 @@ const movieJSON = function() {
             "writer": "[中] 章诒和 ",
             "judgements": 27249,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 35.00元"
+            "price": " 35.00元",
+            "area": "中"
         },
         {
             "name": "伊豆的舞女",
@@ -1487,7 +1635,8 @@ const movieJSON = function() {
             "writer": "[日] 川端康成 ",
             "judgements": 29014,
             "publicHouse": " 广西师范大学出版社 ",
-            "price": " 23.80元"
+            "price": " 23.80元",
+            "area": "日"
         },
         {
             "name": "江城",
@@ -1497,7 +1646,8 @@ const movieJSON = function() {
             "writer": "[美] 彼得·海斯勒 ",
             "judgements": 25839,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 36.00元"
+            "price": " 36.00元",
+            "area": "美"
         },
         {
             "name": "世界尽头与冷酷仙境",
@@ -1507,7 +1657,8 @@ const movieJSON = function() {
             "writer": "[日] 村上春树 ",
             "judgements": 27407,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 23.00元"
+            "price": " 23.00元",
+            "area": "日"
         },
         {
             "name": "把时间当作朋友",
@@ -1517,7 +1668,8 @@ const movieJSON = function() {
             "writer": "[中] 李笑来 ",
             "judgements": 27660,
             "publicHouse": " 电子工业出版社 ",
-            "price": " 32.00元"
+            "price": " 32.00元",
+            "area": "中"
         },
         {
             "name": "富爸爸，穷爸爸",
@@ -1527,7 +1679,8 @@ const movieJSON = function() {
             "writer": "[中] （美）罗伯特・T・清崎 ",
             "judgements": 28207,
             "publicHouse": " 世界图书出版公司 ",
-            "price": " 18.80"
+            "price": " 18.80",
+            "area": "中"
         },
         {
             "name": "影响力",
@@ -1537,7 +1690,8 @@ const movieJSON = function() {
             "writer": "[美] 罗伯特·西奥迪尼 ",
             "judgements": 26919,
             "publicHouse": " 中国人民大学出版社 ",
-            "price": " 45.00元"
+            "price": " 45.00元",
+            "area": "美"
         },
         {
             "name": "倚天屠龙记(共四册)",
@@ -1547,7 +1701,8 @@ const movieJSON = function() {
             "writer": "[中] 金庸 ",
             "judgements": 27152,
             "publicHouse": " 三联书店 ",
-            "price": " 0"
+            "price": " 0",
+            "area": "中"
         },
         {
             "name": "中国历代政治得失",
@@ -1557,7 +1712,8 @@ const movieJSON = function() {
             "writer": "[中] 钱穆 ",
             "judgements": 25182,
             "publicHouse": " 生活·读书·新知三联书店 ",
-            "price": " 12.00元"
+            "price": " 12.00元",
+            "area": "中"
         },
         {
             "name": "冰与火之歌（卷一）",
@@ -1567,7 +1723,8 @@ const movieJSON = function() {
             "writer": "[美] 乔治·R. R. 马丁 ",
             "judgements": 24486,
             "publicHouse": " 重庆出版社 ",
-            "price": " 68.00元"
+            "price": " 68.00元",
+            "area": "美"
         },
         {
             "name": "七夜雪",
@@ -1577,7 +1734,8 @@ const movieJSON = function() {
             "writer": "[中] 沧月 ",
             "judgements": 26656,
             "publicHouse": " 北京十月文艺出版社 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "中"
         },
         {
             "name": "那些年，我们一起追的女孩",
@@ -1587,7 +1745,8 @@ const movieJSON = function() {
             "writer": "[中] 九把刀 ",
             "judgements": 27445,
             "publicHouse": " 花山文艺出版社 ",
-            "price": " 20.00元"
+            "price": " 20.00元",
+            "area": "中"
         },
         {
             "name": "朝花夕拾",
@@ -1597,7 +1756,8 @@ const movieJSON = function() {
             "writer": "[中] 鲁迅 ",
             "judgements": 25912,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 0.25元"
+            "price": " 0.25元",
+            "area": "中"
         },
         {
             "name": "ZOO",
@@ -1607,7 +1767,8 @@ const movieJSON = function() {
             "writer": "[日] 乙一 ",
             "judgements": 26011,
             "publicHouse": " 当代世界出版社 ",
-            "price": " 20.00元"
+            "price": " 20.00元",
+            "area": "日"
         },
         {
             "name": "红与黑",
@@ -1617,7 +1778,8 @@ const movieJSON = function() {
             "writer": "[中] 司汤达 ",
             "judgements": 27683,
             "publicHouse": " 译林出版社 ",
-            "price": " 20.00"
+            "price": " 20.00",
+            "area": "中"
         },
         {
             "name": "蔷薇岛屿",
@@ -1627,7 +1789,8 @@ const movieJSON = function() {
             "writer": "[中] 安妮宝贝 ",
             "judgements": 28111,
             "publicHouse": " 作家出版社 ",
-            "price": " 18.00元"
+            "price": " 18.00元",
+            "area": "中"
         },
         {
             "name": "阿狸·梦之城堡",
@@ -1637,7 +1800,8 @@ const movieJSON = function() {
             "writer": "[中] hans ",
             "judgements": 24506,
             "publicHouse": " 上海锦绣文章出版社 ",
-            "price": " 36.80元"
+            "price": " 36.80元",
+            "area": "中"
         },
         {
             "name": "时间简史",
@@ -1647,7 +1811,8 @@ const movieJSON = function() {
             "writer": "[英] 史蒂芬·霍金 ",
             "judgements": 25092,
             "publicHouse": " 湖南科学技术出版社 ",
-            "price": " 45.00元"
+            "price": " 45.00元",
+            "area": "英"
         },
         {
             "name": "天使与魔鬼",
@@ -1657,7 +1822,8 @@ const movieJSON = function() {
             "writer": "[美] 丹.布朗 ",
             "judgements": 26985,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 29.80元"
+            "price": " 29.80元",
+            "area": "美"
         },
         {
             "name": "水浒传（全二册）",
@@ -1667,7 +1833,8 @@ const movieJSON = function() {
             "writer": "[明] 施耐庵 ",
             "judgements": 25378,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 50.60元"
+            "price": " 50.60元",
+            "area": "明"
         },
         {
             "name": "最初的爱情 最后的仪式",
@@ -1677,7 +1844,8 @@ const movieJSON = function() {
             "writer": "[英] 伊恩·麦克尤恩 ",
             "judgements": 27251,
             "publicHouse": " 南京大学出版社 ",
-            "price": " 22.00元"
+            "price": " 22.00元",
+            "area": "英"
         },
         {
             "name": "杀死一只知更鸟",
@@ -1687,7 +1855,8 @@ const movieJSON = function() {
             "writer": "[美] 哈珀·李 ",
             "judgements": 23232,
             "publicHouse": " 译林出版社 ",
-            "price": " 32.00元"
+            "price": " 32.00元",
+            "area": "美"
         },
         {
             "name": "陆犯焉识",
@@ -1697,7 +1866,8 @@ const movieJSON = function() {
             "writer": "[中] 严歌苓 ",
             "judgements": 24062,
             "publicHouse": " 作家出版社 ",
-            "price": " 35.00元"
+            "price": " 35.00元",
+            "area": "中"
         },
         {
             "name": "国境以南 太阳以西",
@@ -1707,7 +1877,8 @@ const movieJSON = function() {
             "writer": "[日] 村上春树 ",
             "judgements": 25797,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 13.50元"
+            "price": " 13.50元",
+            "area": "日"
         },
         {
             "name": "佛祖在一号线",
@@ -1717,7 +1888,8 @@ const movieJSON = function() {
             "writer": "[中] 李海鹏 ",
             "judgements": 25761,
             "publicHouse": " 文化艺术出版社 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "中"
         },
         {
             "name": "最好的我们",
@@ -1727,7 +1899,8 @@ const movieJSON = function() {
             "writer": "[中] 八月长安 ",
             "judgements": 23294,
             "publicHouse": " 湖南文艺出版社 ",
-            "price": " 55"
+            "price": " 55",
+            "area": "中"
         },
         {
             "name": "西游记（全二册）",
@@ -1737,7 +1910,8 @@ const movieJSON = function() {
             "writer": "[中] 吴承恩 ",
             "judgements": 23767,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 47.20元"
+            "price": " 47.20元",
+            "area": "中"
         },
         {
             "name": "雷雨",
@@ -1747,7 +1921,8 @@ const movieJSON = function() {
             "writer": "[中] 曹禺 ",
             "judgements": 24743,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 9.20"
+            "price": " 9.20",
+            "area": "中"
         },
         {
             "name": "瓦尔登湖",
@@ -1757,7 +1932,8 @@ const movieJSON = function() {
             "writer": "[美] 梭罗 ",
             "judgements": 24903,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 11.00元"
+            "price": " 11.00元",
+            "area": "美"
         },
         {
             "name": "生活在别处",
@@ -1767,7 +1943,8 @@ const movieJSON = function() {
             "writer": "[捷克] 米兰·昆德拉 ",
             "judgements": 25046,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "捷"
         },
         {
             "name": "自控力",
@@ -1777,7 +1954,8 @@ const movieJSON = function() {
             "writer": "[美]  凯利·麦格尼格尔 ",
             "judgements": 24795,
             "publicHouse": " 文化发展出版社(原印刷工业出版社) ",
-            "price": " 39.80元"
+            "price": " 39.80元",
+            "area": "美"
         },
         {
             "name": "心是孤独的猎手",
@@ -1787,7 +1965,8 @@ const movieJSON = function() {
             "writer": "[美] 卡森·麦卡勒斯 ",
             "judgements": 24009,
             "publicHouse": " 上海三联书店 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "美"
         },
         {
             "name": "京华烟云",
@@ -1797,7 +1976,8 @@ const movieJSON = function() {
             "writer": "[中] 林语堂 ",
             "judgements": 23959,
             "publicHouse": " 陕西师范大学出版社 ",
-            "price": " 43.00元"
+            "price": " 43.00元",
+            "area": "中"
         },
         {
             "name": "设计中的设计",
@@ -1807,7 +1987,8 @@ const movieJSON = function() {
             "writer": "[日] 原研哉 ",
             "judgements": 23408,
             "publicHouse": " 山东人民出版社 ",
-            "price": " 48.00元"
+            "price": " 48.00元",
+            "area": "日"
         },
         {
             "name": "夏洛的网",
@@ -1817,7 +1998,8 @@ const movieJSON = function() {
             "writer": "[美] E.B.怀特 ",
             "judgements": 23458,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 17.00元"
+            "price": " 17.00元",
+            "area": "美"
         },
         {
             "name": "我执",
@@ -1827,7 +2009,8 @@ const movieJSON = function() {
             "writer": "[中] 梁文道 ",
             "judgements": 25177,
             "publicHouse": " 广西师范大学出版社 ",
-            "price": " 35.00元"
+            "price": " 35.00元",
+            "area": "中"
         },
         {
             "name": "狂人日记",
@@ -1837,7 +2020,8 @@ const movieJSON = function() {
             "writer": "[中] 鲁迅 ",
             "judgements": 23045,
             "publicHouse": " 京华出版社 ",
-            "price": " 39.80元"
+            "price": " 39.80元",
+            "area": "中"
         },
         {
             "name": "变形记",
@@ -1847,7 +2031,8 @@ const movieJSON = function() {
             "writer": "[奥] 卡夫卡 ",
             "judgements": 23898,
             "publicHouse": " 浙江文艺出版社 ",
-            "price": " 16.00元"
+            "price": " 16.00元",
+            "area": "奥"
         },
         {
             "name": "偷书贼",
@@ -1857,7 +2042,8 @@ const movieJSON = function() {
             "writer": "[澳] 马克斯·苏萨克 ",
             "judgements": 24760,
             "publicHouse": " 南海出版公司 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "澳"
         },
         {
             "name": "没有色彩的多崎作和他的巡礼之年",
@@ -1867,7 +2053,8 @@ const movieJSON = function() {
             "writer": "[日] 村上春树 ",
             "judgements": 23963,
             "publicHouse": " 南海出版公司 ",
-            "price": " 39.50元"
+            "price": " 39.50元",
+            "area": "日"
         },
         {
             "name": "海底两万里",
@@ -1877,7 +2064,8 @@ const movieJSON = function() {
             "writer": "[法国] 儒尔·凡尔纳 ",
             "judgements": 23669,
             "publicHouse": " 译林出版社 ",
-            "price": " 19.50元"
+            "price": " 19.50元",
+            "area": "法"
         },
         {
             "name": "激荡三十年（上）",
@@ -1887,7 +2075,8 @@ const movieJSON = function() {
             "writer": "[中] 吴晓波 ",
             "judgements": 21903,
             "publicHouse": " 中信出版社 浙江人民出版社 ",
-            "price": " 35.00"
+            "price": " 35.00",
+            "area": "中"
         },
         {
             "name": "文学回忆录（全2册）",
@@ -1897,7 +2086,8 @@ const movieJSON = function() {
             "writer": "[中] 木心 口述 ",
             "judgements": 20741,
             "publicHouse": " 广西师范大学出版社 ",
-            "price": " 98.00元"
+            "price": " 98.00元",
+            "area": "中"
         },
         {
             "name": "人性的弱点全集",
@@ -1907,7 +2097,8 @@ const movieJSON = function() {
             "writer": "[美] 戴尔·卡耐基 ",
             "judgements": 22832,
             "publicHouse": " 中国发展出版社 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "美"
         },
         {
             "name": "一句顶一万句",
@@ -1917,7 +2108,8 @@ const movieJSON = function() {
             "writer": "[中] 刘震云 ",
             "judgements": 21710,
             "publicHouse": " 长江文艺出版社 ",
-            "price": " 29.80"
+            "price": " 29.80",
+            "area": "中"
         },
         {
             "name": "九州·缥缈录",
@@ -1927,7 +2119,8 @@ const movieJSON = function() {
             "writer": "[中] 江南 ",
             "judgements": 20879,
             "publicHouse": " 新世界出版社 ",
-            "price": " 20.00元"
+            "price": " 20.00元",
+            "area": "中"
         },
         {
             "name": "你今天真好看",
@@ -1937,7 +2130,8 @@ const movieJSON = function() {
             "writer": "[美]莉兹•克里莫 ",
             "judgements": 21715,
             "publicHouse": " 周高逸 ",
-            "price": "天津人民出版社 "
+            "price": "天津人民出版社 ",
+            "area": "美"
         },
         {
             "name": "呼兰河传",
@@ -1947,7 +2141,8 @@ const movieJSON = function() {
             "writer": "[中] 萧红 ",
             "judgements": 21104,
             "publicHouse": " 百花文艺出版社 ",
-            "price": " 19.00"
+            "price": " 19.00",
+            "area": "中"
         },
         {
             "name": "尼罗河上的惨案",
@@ -1957,7 +2152,8 @@ const movieJSON = function() {
             "writer": "[英] 阿加莎·克里斯蒂 ",
             "judgements": 21383,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 22.00元"
+            "price": " 22.00元",
+            "area": "英"
         },
         {
             "name": "我与地坛",
@@ -1967,7 +2163,8 @@ const movieJSON = function() {
             "writer": "[中] 史铁生 ",
             "judgements": 20158,
             "publicHouse": " 春风文艺出版社 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "中"
         },
         {
             "name": "人生",
@@ -1977,7 +2174,8 @@ const movieJSON = function() {
             "writer": "[中] 路遥 ",
             "judgements": 21482,
             "publicHouse": " 北京十月文艺出版社 ",
-            "price": " 20.00元"
+            "price": " 20.00元",
+            "area": "中"
         },
         {
             "name": "我的精神家园",
@@ -1987,7 +2185,8 @@ const movieJSON = function() {
             "writer": "[中] 王小波 ",
             "judgements": 19691,
             "publicHouse": " 文化艺术出版社 ",
-            "price": " 18.80元"
+            "price": " 18.80元",
+            "area": "中"
         },
         {
             "name": "占星术杀人魔法",
@@ -1997,7 +2196,8 @@ const movieJSON = function() {
             "writer": "[日] 岛田庄司 ",
             "judgements": 21240,
             "publicHouse": " 新星出版社 ",
-            "price": " 28.00"
+            "price": " 28.00",
+            "area": "日"
         },
         {
             "name": "浮生六记",
@@ -2007,7 +2207,8 @@ const movieJSON = function() {
             "writer": "[中] （清）沈复 ",
             "judgements": 20200,
             "publicHouse": " 1999",
-            "price": " 5.70元"
+            "price": " 5.70元",
+            "area": "中"
         },
         {
             "name": "浪潮之巅",
@@ -2017,7 +2218,8 @@ const movieJSON = function() {
             "writer": "[中] 吴军 ",
             "judgements": 19385,
             "publicHouse": " 电子工业出版社 ",
-            "price": " 55.00元"
+            "price": " 55.00元",
+            "area": "中"
         },
         {
             "name": "舞！舞！舞！",
@@ -2027,7 +2229,8 @@ const movieJSON = function() {
             "writer": "[日] 村上春树 ",
             "judgements": 21384,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "日"
         },
         {
             "name": "野火集",
@@ -2037,7 +2240,8 @@ const movieJSON = function() {
             "writer": "[中] 龙应台 ",
             "judgements": 20032,
             "publicHouse": " 文汇出版社 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "中"
         },
         {
             "name": "妻妾成群",
@@ -2047,7 +2251,8 @@ const movieJSON = function() {
             "writer": "[中] 苏童 ",
             "judgements": 21646,
             "publicHouse": " 上海文艺出版社 ",
-            "price": " 23.00元"
+            "price": " 23.00元",
+            "area": "中"
         },
         {
             "name": "高效能人士的七个习惯（精华版）",
@@ -2057,7 +2262,8 @@ const movieJSON = function() {
             "writer": "[美] 史蒂芬·柯维 ",
             "judgements": 20844,
             "publicHouse": " 中国青年出版社 ",
-            "price": " 29.00元"
+            "price": " 29.00元",
+            "area": "美"
         },
         {
             "name": "海子的诗",
@@ -2067,7 +2273,8 @@ const movieJSON = function() {
             "writer": "[中] 海子 ",
             "judgements": 18727,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 15.40"
+            "price": " 15.40",
+            "area": "中"
         },
         {
             "name": "项链",
@@ -2077,7 +2284,8 @@ const movieJSON = function() {
             "writer": "[法] 莫泊桑 ",
             "judgements": 20217,
             "publicHouse": " 河北教育出版社 ",
-            "price": " 28.00元"
+            "price": " 28.00元",
+            "area": "法"
         },
         {
             "name": "教父",
@@ -2087,7 +2295,8 @@ const movieJSON = function() {
             "writer": "[美]马里奥·普佐 ",
             "judgements": 18361,
             "publicHouse": " 译林出版社 ",
-            "price": " 23.30元"
+            "price": " 23.30元",
+            "area": "美"
         },
         {
             "name": "娱乐至死",
@@ -2097,7 +2306,8 @@ const movieJSON = function() {
             "writer": "[美] 尼尔·波兹曼 ",
             "judgements": 19341,
             "publicHouse": " 广西师范大学出版社 ",
-            "price": " 29.80元"
+            "price": " 29.80元",
+            "area": "美"
         },
         {
             "name": "观念的水位",
@@ -2107,7 +2317,8 @@ const movieJSON = function() {
             "writer": "[中] 刘瑜 ",
             "judgements": 19671,
             "publicHouse": " 浙江大学出版社 ",
-            "price": " 36.00元"
+            "price": " 36.00元",
+            "area": "中"
         },
         {
             "name": "父与子全集",
@@ -2117,7 +2328,8 @@ const movieJSON = function() {
             "writer": "[德] 埃·奥·卜劳恩 绘 ",
             "judgements": 17615,
             "publicHouse": " 中国工人出版社 ",
-            "price": " 20.00元"
+            "price": " 20.00元",
+            "area": "德"
         },
         {
             "name": "动物凶猛",
@@ -2127,7 +2339,8 @@ const movieJSON = function() {
             "writer": "[中] 王朔 ",
             "judgements": 19748,
             "publicHouse": " 中国电影出版社 ",
-            "price": " 15.5"
+            "price": " 15.5",
+            "area": "中"
         },
         {
             "name": "罗杰疑案",
@@ -2137,7 +2350,8 @@ const movieJSON = function() {
             "writer": "[英] 阿加莎·克里斯蒂 ",
             "judgements": 18061,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 21.00元"
+            "price": " 21.00元",
+            "area": "英"
         },
         {
             "name": "中国大历史",
@@ -2147,7 +2361,8 @@ const movieJSON = function() {
             "writer": "[中] 黄仁宇 ",
             "judgements": 19734,
             "publicHouse": " 生活·读书·新知三联书店 ",
-            "price": " 19.00元"
+            "price": " 19.00元",
+            "area": "中"
         },
         {
             "name": "子不语1",
@@ -2157,7 +2372,8 @@ const movieJSON = function() {
             "writer": "[中] 夏达 ",
             "judgements": 17685,
             "publicHouse": " 新世纪出版社 ",
-            "price": " RMB36.00"
+            "price": " RMB36.00",
+            "area": "中"
         },
         {
             "name": "寻羊冒险记",
@@ -2167,7 +2383,8 @@ const movieJSON = function() {
             "writer": "[日] 村上春树 ",
             "judgements": 19998,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 18.80元"
+            "price": " 18.80元",
+            "area": "日"
         },
         {
             "name": "带一本书去巴黎",
@@ -2177,7 +2394,8 @@ const movieJSON = function() {
             "writer": "[中] 林达 ",
             "judgements": 18947,
             "publicHouse": " 生活·读书·新知三联书店 ",
-            "price": " 35.00元"
+            "price": " 35.00元",
+            "area": "中"
         },
         {
             "name": "巨流河",
@@ -2187,7 +2405,8 @@ const movieJSON = function() {
             "writer": "[中] 齐邦媛 ",
             "judgements": 18555,
             "publicHouse": " 生活·读书·新知三联书店 ",
-            "price": " 39.00元"
+            "price": " 39.00元",
+            "area": "中"
         },
         {
             "name": "小姨多鹤",
@@ -2197,7 +2416,8 @@ const movieJSON = function() {
             "writer": "[中] 严歌苓 ",
             "judgements": 18658,
             "publicHouse": " 作家出版社 ",
-            "price": " 28.00元"
+            "price": " 28.00元",
+            "area": "中"
         },
         {
             "name": "斯通纳",
@@ -2207,7 +2427,8 @@ const movieJSON = function() {
             "writer": "[美] 约翰·威廉斯 ",
             "judgements": 17975,
             "publicHouse": " 杨向荣 ",
-            "price": "上海人民出版社 "
+            "price": "上海人民出版社 ",
+            "area": "美"
         },
         {
             "name": "第一炉香",
@@ -2217,7 +2438,8 @@ const movieJSON = function() {
             "writer": "[中] 张爱玲 ",
             "judgements": 19120,
             "publicHouse": " 花城出版社 ",
-            "price": " 11.5"
+            "price": " 11.5",
+            "area": "中"
         },
         {
             "name": "芳华",
@@ -2227,7 +2449,8 @@ const movieJSON = function() {
             "writer": "[中] 严歌苓 ",
             "judgements": 19559,
             "publicHouse": " 人民文学出版社 ",
-            "price": " CNY 39.00"
+            "price": " CNY 39.00",
+            "area": "中"
         },
         {
             "name": "爱的艺术",
@@ -2237,7 +2460,8 @@ const movieJSON = function() {
             "writer": "[美] 艾·弗洛姆 ",
             "judgements": 17807,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 15.00元"
+            "price": " 15.00元",
+            "area": "美"
         },
         {
             "name": "退步集",
@@ -2247,7 +2471,8 @@ const movieJSON = function() {
             "writer": "[中] 陈丹青 ",
             "judgements": 19424,
             "publicHouse": " 广西师范大学出版社 ",
-            "price": " 38.00元"
+            "price": " 38.00元",
+            "area": "中"
         },
         {
             "name": "未来简史",
@@ -2257,7 +2482,8 @@ const movieJSON = function() {
             "writer": "[以色列] 尤瓦尔·赫拉利 ",
             "judgements": 18565,
             "publicHouse": " 中信出版社 ",
-            "price": " 68"
+            "price": " 68",
+            "area": "以"
         },
         {
             "name": "人间词话",
@@ -2267,7 +2493,8 @@ const movieJSON = function() {
             "writer": "[中] 王国维 ",
             "judgements": 17360,
             "publicHouse": " 上海古籍出版社 ",
-            "price": " 9.80元"
+            "price": " 9.80元",
+            "area": "中"
         },
         {
             "name": "夹边沟记事",
@@ -2277,7 +2504,8 @@ const movieJSON = function() {
             "writer": "[中] 杨显惠 ",
             "judgements": 16599,
             "publicHouse": " 花城出版社 ",
-            "price": " 34.00元"
+            "price": " 34.00元",
+            "area": "中"
         },
         {
             "name": "云中歌1",
@@ -2287,7 +2515,8 @@ const movieJSON = function() {
             "writer": "[中] 桐华 ",
             "judgements": 19059,
             "publicHouse": " 作家出版社 ",
-            "price": " 24.80元"
+            "price": " 24.80元",
+            "area": "中"
         },
         {
             "name": "来不及说我爱你",
@@ -2297,7 +2526,8 @@ const movieJSON = function() {
             "writer": "[中] 匪我思存 ",
             "judgements": 18888,
             "publicHouse": " 新世界出版社 ",
-            "price": " 20.00元"
+            "price": " 20.00元",
+            "area": "中"
         },
         {
             "name": "一千零一夜",
@@ -2307,7 +2537,8 @@ const movieJSON = function() {
             "writer": "[中] 纳训 ",
             "judgements": 17755,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 22.0"
+            "price": " 22.0",
+            "area": "中"
         },
         {
             "name": "相约星期二",
@@ -2317,7 +2548,8 @@ const movieJSON = function() {
             "writer": "[美] 米奇·阿尔博姆 ",
             "judgements": 17968,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 19.00元"
+            "price": " 19.00元",
+            "area": "美"
         },
         {
             "name": "可爱的洪水猛兽",
@@ -2327,7 +2559,8 @@ const movieJSON = function() {
             "writer": "[中] 韩寒 ",
             "judgements": 18817,
             "publicHouse": " 万卷出版公司 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "中"
         },
         {
             "name": "白银时代",
@@ -2337,7 +2570,8 @@ const movieJSON = function() {
             "writer": "[中] 王小波 ",
             "judgements": 18059,
             "publicHouse": " 花城出版社 ",
-            "price": " 10.00元"
+            "price": " 10.00元",
+            "area": "中"
         },
         {
             "name": "罗生门",
@@ -2347,7 +2581,8 @@ const movieJSON = function() {
             "writer": "[日]芥川龙之介 ",
             "judgements": 17367,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 12.00元"
+            "price": " 12.00元",
+            "area": "日"
         },
         {
             "name": "台北人",
@@ -2357,7 +2592,8 @@ const movieJSON = function() {
             "writer": "[中] 白先勇 ",
             "judgements": 16684,
             "publicHouse": " 广西师范大学出版社 ",
-            "price": " 38.00元"
+            "price": " 38.00元",
+            "area": "中"
         },
         {
             "name": "万水千山走遍",
@@ -2367,7 +2603,8 @@ const movieJSON = function() {
             "writer": "[中] 三毛 ",
             "judgements": 16835,
             "publicHouse": " 哈尔滨出版社 ",
-            "price": " 13.80"
+            "price": " 13.80",
+            "area": "中"
         },
         {
             "name": "面纱",
@@ -2377,7 +2614,8 @@ const movieJSON = function() {
             "writer": "[英] W.萨默塞特·毛姆 ",
             "judgements": 17097,
             "publicHouse": " 重庆出版社 ",
-            "price": " 32.00元"
+            "price": " 32.00元",
+            "area": "英"
         },
         {
             "name": "哈姆莱特",
@@ -2387,7 +2625,8 @@ const movieJSON = function() {
             "writer": "[英] 莎士比亚 ",
             "judgements": 17504,
             "publicHouse": " 人民文学出版社 ",
-            "price": " 7.00元"
+            "price": " 7.00元",
+            "area": "英"
         },
         {
             "name": "告白",
@@ -2397,7 +2636,8 @@ const movieJSON = function() {
             "writer": "[中] 湊佳苗 ",
             "judgements": 17045,
             "publicHouse": " 時報文化 ",
-            "price": " NT$250"
+            "price": " NT$250",
+            "area": "中"
         },
         {
             "name": "雨季不再来",
@@ -2407,7 +2647,8 @@ const movieJSON = function() {
             "writer": "[中] 三毛 ",
             "judgements": 17014,
             "publicHouse": " 北京十月文艺出版社 ",
-            "price": " 28.00元"
+            "price": " 28.00元",
+            "area": "中"
         },
         {
             "name": "琅琊榜",
@@ -2417,7 +2658,8 @@ const movieJSON = function() {
             "writer": "[中] 海宴 ",
             "judgements": 16704,
             "publicHouse": " 朝华出版社 ",
-            "price": " 49.80元"
+            "price": " 49.80元",
+            "area": "中"
         },
         {
             "name": "后宫·甄嬛传Ⅰ",
@@ -2427,7 +2669,8 @@ const movieJSON = function() {
             "writer": "[中] 流潋紫 ",
             "judgements": 18181,
             "publicHouse": " 花山文艺出版社 ",
-            "price": " 22.00元"
+            "price": " 22.00元",
+            "area": "中"
         },
         {
             "name": "朗读者",
@@ -2437,7 +2680,8 @@ const movieJSON = function() {
             "writer": "[德] 本哈德·施林克 ",
             "judgements": 17450,
             "publicHouse": " 译林出版社 ",
-            "price": " 22.00"
+            "price": " 22.00",
+            "area": "德"
         },
         {
             "name": "星空",
@@ -2447,7 +2691,8 @@ const movieJSON = function() {
             "writer": "[中] 幾米 ",
             "judgements": 15909,
             "publicHouse": " 大塊文化 ",
-            "price": " NT369"
+            "price": " NT369",
+            "area": "中"
         },
         {
             "name": "雾都孤儿",
@@ -2457,7 +2702,8 @@ const movieJSON = function() {
             "writer": "[英]狄更斯 ",
             "judgements": 18018,
             "publicHouse": " 上海译文出版社 ",
-            "price": " 10.10元"
+            "price": " 10.10元",
+            "area": "英"
         },
         {
             "name": "阿麦从军：全新修订版",
@@ -2467,7 +2713,8 @@ const movieJSON = function() {
             "writer": "[中] 鲜橙 ",
             "judgements": 15128,
             "publicHouse": " 作家出版社 ",
-            "price": " 108.00元"
+            "price": " 108.00元",
+            "area": "中"
         },
         {
             "name": "枪炮、病菌与钢铁",
@@ -2477,7 +2724,8 @@ const movieJSON = function() {
             "writer": "[美] 贾雷德·戴蒙德 ",
             "judgements": 16281,
             "publicHouse": " 上海世纪出版集团 ",
-            "price": " 45.00元"
+            "price": " 45.00元",
+            "area": "美"
         },
         {
             "name": "红拂夜奔",
@@ -2487,7 +2735,8 @@ const movieJSON = function() {
             "writer": "[中] 王小波 ",
             "judgements": 16586,
             "publicHouse": " 江苏文艺出版社 ",
-            "price": " 28.00元"
+            "price": " 28.00元",
+            "area": "中"
         },
         {
             "name": "深夜食堂 01",
@@ -2497,9 +2746,9 @@ const movieJSON = function() {
             "writer": "[日] 安倍夜郎 ",
             "judgements": 15483,
             "publicHouse": " 湖南文艺出版社 ",
-            "price": " 25.00元"
+            "price": " 25.00元",
+            "area": "日"
         }
-
     ]
     return d
 }
